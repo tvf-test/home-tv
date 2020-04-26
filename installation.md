@@ -24,7 +24,7 @@ Schliessen Sie das Netzteil an den Gleichstromeingang der Aria 7X an und verbind
 
 ![](https://manula.r.sizr.io/large/user/16317/img/aria-7x-user-guide-en-11_v1.png)
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Verwenden Sie nur das mitgelieferte Netzteil.
 {% endhint %}
 

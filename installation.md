@@ -8,6 +8,10 @@ Schliessen Sie das Ethernet-Kabel direkt mit dem Internet-Router. Stellen Sie si
 
 ![](https://manula.r.sizr.io/large/user/16317/img/aria-7x-user-guide-en-4-stromkabel.png)
 
+### **DVI - Kabel**
+
+Ein DVI-Kabel kann nicht verwendet werden. :TODO: Wieder rausnehmen. Hier handelt es sich nur um ein Test mit Adobe Incopy.
+
 ### **HDMI -Kabel**
 
 Die Aria 7X bietet Optionen für den Anschluss von Audio und Video an Ihr TV-Gerät:
